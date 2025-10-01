@@ -196,8 +196,8 @@ def main(months):
 			 'gardevoirmega', 'gengar', 'gyarados', 'hawlucha', 'heracrossmega',
 			 'ironhands', 'ironleaves', 'jirachi', 'keldeo', 'keldeoresolute',
 			 'kyurem', 'latiasmega', 'latios', 'latiosmega', 'lilliganthisui',
-			 'mamoswine', 'manaphy', 'mew', 'moltresgalar', 'pecharunt', 'porygonz',
-			 'quaquaval', 'salamence', 'sableyemega', 'terrakion', 'victini',
+			 'mamoswine', 'manaphy', 'mienshao', 'mew', 'moltresgalar', 'okidogi', 'pecharunt', 'porygonz',
+			 'quaquaval', 'salamence', 'sableyemega', 'terrakion', 'thundurus', 'victini',
 			 'xurkitree', 'zapdosgalar', 'zoroarkhisui']:
 			newTiers[poke] = 'RUBL'
 
